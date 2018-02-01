@@ -12,6 +12,6 @@
     <title>Wait - Sea Battle</title>
 </head>
 <body>
-   Please wait for another player to join.
+  <h2> ${playerGameContext.player.name} Please wait for another player to join. </h2>
 </body>
 </html>
