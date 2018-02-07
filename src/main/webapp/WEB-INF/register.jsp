@@ -15,6 +15,7 @@
 <%--
   action - chto budet vyzyvatjsja path for brouser (if with "\" then saebattle disappears)
   method post - not to show all parameters
+  how to draw boxes?
 --%>
 Enter your name:
 <input type="text" name="player-name">
